@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=19maxi71" alt="19maxi71" /></a> </p>
 
-- 🔭 I’m currently working on [OC-lettings site](https://github.com/19maxi71/Python-OC-Lettings-FR)
+- 🔭 I’m currently working on [LavanderCats Cattery](https://github.com/19maxi71/catFarm_site_fastAPI_project)
 
-- 🌱 I’m currently learning **Django, Flask, Typer**
+- 🌱 I’m currently learning **FastAPI, AlpineJS**
 
 - 👯 I’m looking to collaborate on **all types of python projects**
 
